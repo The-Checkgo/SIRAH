@@ -1,0 +1,32 @@
+{
+    "caracteristicas": [
+        "mfcc_1",
+        "mfcc_2",
+        "mfcc_3",
+        "mfcc_4",
+        "mfcc_5",
+        "mfcc_6",
+        "mfcc_7",
+        "mfcc_8",
+        "mfcc_9",
+        "mfcc_10",
+        "mfcc_11",
+        "mfcc_12",
+        "mfcc_13",
+        "energia",
+        "frecuencia_dominante"
+    ],
+    "categorias": [
+        "sirena",
+        "incendio",
+        "sismica",
+        "desconocido"
+    ],
+    "numero_arboles": 200,
+    "semilla": 42,
+    "fragmentos_entrenamiento": 905,
+    "fragmentos_prueba": 428,
+    "audios_entrenamiento": 29,
+    "audios_prueba": 8,
+    "precision": 0.5397196261682243
+}
